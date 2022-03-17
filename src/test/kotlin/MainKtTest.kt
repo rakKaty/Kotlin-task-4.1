@@ -18,7 +18,7 @@ class MainKtTest {
             sumMonthlyTransfer = sumMonthlyTransfer)
 
         //assert
-        assertEquals(0, result)
+        assertEquals(1000, result)
     }
 
     @Test
